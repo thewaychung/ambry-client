@@ -7,7 +7,7 @@ Ambry-client is a Java SDK to call the Ambry, a distributed object store, RESTfu
 
 Use it as a maven dependency (TBD)
 
-###How to use
+###Usage
 ```Java
 AmbryClient ambryClient = AmbryClient("localhost", 1174);
 
@@ -42,4 +42,9 @@ AmbryPostFileResponse postResponse = ambryClient.postFile(content, fileTypeStrin
 AmbryBaseResponse delResponse = ambryClient.deleteFile(ambryId);
 // return: code(202), status, message
 ```
+
+#License
+Ambry-client is released under the MIT [LICENSE](LICENSE.md)
+
+
 
