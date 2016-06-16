@@ -1,4 +1,4 @@
-package com.github.ambry.response;
+package com.github.thewaychung.response;
 
 /**
  * @author Zhong.Zewei Create on 2016.06.13.

@@ -1,6 +1,6 @@
-package com.github.ambry.client;
+package com.github.thewaychung.client;
 
-import com.github.ambry.response.*;
+import com.github.thewaychung.response.*;
 
 import java.io.File;
 

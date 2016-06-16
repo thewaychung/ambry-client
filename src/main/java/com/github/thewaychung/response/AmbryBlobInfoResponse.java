@@ -1,4 +1,4 @@
-package com.github.ambry.response;
+package com.github.thewaychung.response;
 
 import java.util.Date;
 

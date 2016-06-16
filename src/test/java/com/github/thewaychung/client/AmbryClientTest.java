@@ -1,9 +1,9 @@
-package com.github.ambry.client;
+package com.github.thewaychung.client;
 
-import com.github.ambry.response.AmbryBaseResponse;
-import com.github.ambry.response.AmbryBlobInfoResponse;
-import com.github.ambry.response.AmbryGetFileResponse;
-import com.github.ambry.response.AmbryPostFileResponse;
+import com.github.thewaychung.response.AmbryBaseResponse;
+import com.github.thewaychung.response.AmbryBlobInfoResponse;
+import com.github.thewaychung.response.AmbryGetFileResponse;
+import com.github.thewaychung.response.AmbryPostFileResponse;
 import junit.framework.Assert;
 import org.junit.After;
 import org.junit.Before;

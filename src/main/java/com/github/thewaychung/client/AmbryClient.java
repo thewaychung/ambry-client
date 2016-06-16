@@ -1,7 +1,7 @@
-package com.github.ambry.client;
+package com.github.thewaychung.client;
 
-import com.github.ambry.http.*;
-import com.github.ambry.response.*;
+import com.github.thewaychung.http.*;
+import com.github.thewaychung.response.*;
 import org.apache.http.Header;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

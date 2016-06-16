@@ -1,6 +1,6 @@
-package com.github.ambry.http;
+package com.github.thewaychung.http;
 
-import com.github.ambry.response.AmbryHttpResponse;
+import com.github.thewaychung.response.AmbryHttpResponse;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpMessage;
 import org.apache.http.client.methods.*;
