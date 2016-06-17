@@ -5,7 +5,14 @@ Ambry-client is a Java SDK to call the Ambry, a distributed object store, RESTfu
 
 ###Maven
 
-Use it as a maven dependency (TBD)
+Use it as a maven dependency:
+```xml
+<dependency>
+    <groupId>com.github.thewaychung</groupId>
+    <artifactId>ambry-client</artifactId>
+    <version>1.0</version>
+</dependency>
+```
 
 ###Usage
 ```Java
